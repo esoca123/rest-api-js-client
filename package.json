@@ -1,0 +1,29 @@
+{
+  "name": "rest-api-js-client",
+  "version": "0.0.2",
+  "description": "rest api js client",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha 'tests/**/*.test.js'"
+  },
+  "author": "Emilio Soca",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esoca123/rest-api-js-client.git"
+  },
+  "keywords": [
+    "rest",
+    "ramda",
+    "functional",
+    "fetch",
+    "promises"
+  ],
+  "bugs": {
+    "url": "https://github.com/esoca123/rest-api-js-client/issues"
+  },
+  "homepage": "https://github.com/esoca123/rest-api-js-client#readme"
+}

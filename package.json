@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/esoca123/rest-api-js-client/issues"
   },
-  "homepage": "https://github.com/esoca123/rest-api-js-client#readme"
+  "homepage": "https://github.com/esoca123/rest-api-js-client#readme",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.5.0",
+    "pre-commit": "^1.2.2"
+  }
 }
